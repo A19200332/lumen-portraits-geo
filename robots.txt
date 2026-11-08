@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a19200332.github.io/lumen-portraits-geo/sitemap.xml

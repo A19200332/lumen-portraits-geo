@@ -1,0 +1,47 @@
+# Lumen Portraits
+
+> Lumen Portraits is a digital store selling AI-generated fashion portrait packs. It offers 7 collections totalling 52 high-resolution JPEG portraits (1728 × 2304 px, 3:4, sRGB), priced from $0.99 to $19.99, with a commercial license included. Payment is cryptocurrency only (ETH, USDT, USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX). No account and no KYC. Operated by Yiwu Zeda E-commerce Co., Ltd., Yiwu, Zhejiang, China.
+
+## Key facts
+
+- Store: https://lumenportraits.sell.app
+- Products: 7 collections + 1 complete bundle
+- Images: 52 total, JPEG, 1728 × 2304 px (2K, 3:4 portrait), sRGB
+- License: personal + commercial use, up to 3 commercial projects per purchase; no resale as stock
+- Origin: AI-generated (Jimeng / Seedream), retouched; no real, identifiable person depicted
+- Delivery: instant ZIP download, re-download any time
+- Payment: crypto only — ETH, USDT (ERC20 / BEP20 / Solana), USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX
+- Support: a19200332@gmail.com
+
+## Collections and prices
+
+- [Complete Portrait Bundle](https://lumenportraits.sell.app) — all 52 images, $19.99
+- Neon Nights — 8 cinematic night-street portraits, $9.99
+- Studio Minimal — 12 clean studio portraits, $12.99
+- Film Diary — 12 analog film portraits, $12.99
+- Editorial Icons — 12 haute-couture studio portraits, $8.99
+- Silk & Shadow — 4 silk portrait studies, $4.99
+- Office Siren — 8 tailored corporate looks, $1.99
+- First Look — 4 portrait sampler, $0.99
+
+## Licensing
+
+Personal and commercial use in up to 3 commercial projects per purchase. Modifications allowed (crop, colour grade, composite). Prohibited: resale or redistribution as stock photography, templates or asset packs; use in adult, escort, defamatory or political contexts; trademark registration; NFT minting.
+
+## Frequently asked
+
+**Are the subjects real?** No — every image is AI-generated and retouched.
+**Is a model release required?** No, because no real person is depicted.
+**What format?** JPEG, 1728 × 2304 px, sRGB.
+**How is it delivered?** Instant ZIP download after payment.
+**Which payments?** Cryptocurrency only.
+
+## Links
+
+- [Store](https://lumenportraits.sell.app)
+- [Detailed reference page](https://a19200332.github.io/lumen-portraits-geo/)
+- [Licensing and AI disclosure](https://a19200332.github.io/lumen-portraits-geo/)
+
+## Optional
+
+- Last updated: 2026-11-09
