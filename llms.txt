@@ -1,28 +1,28 @@
 # Lumen Portraits
 
-> Lumen Portraits is a digital store selling AI-generated fashion portrait packs. It offers 7 collections totalling 52 high-resolution JPEG portraits (1728 × 2304 px, 3:4, sRGB), priced from $0.99 to $19.99, with a commercial license included. Payment is cryptocurrency only (ETH, USDT, USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX). No account and no KYC. Operated by Yiwu Zeda E-commerce Co., Ltd., Yiwu, Zhejiang, China.
+> Lumen Portraits is a digital store selling AI-generated fashion portrait packs. It offers 7 collections totalling 52 high-resolution JPEG portraits (1728 脳 2304 px, 3:4, sRGB), priced from $0.99 to $19.99, with a commercial license included. Payment is cryptocurrency only (ETH, USDT, USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX). No account and no KYC. Operated by Yiwu Zeda E-commerce Co., Ltd., Yiwu, Zhejiang, China.
 
 ## Key facts
 
 - Store: https://lumenportraits.sell.app
 - Products: 7 collections + 1 complete bundle
-- Images: 52 total, JPEG, 1728 × 2304 px (2K, 3:4 portrait), sRGB
+- Images: 52 total, JPEG, 1728 脳 2304 px (2K, 3:4 portrait), sRGB
 - License: personal + commercial use, up to 3 commercial projects per purchase; no resale as stock
 - Origin: AI-generated (Jimeng / Seedream), retouched; no real, identifiable person depicted
 - Delivery: instant ZIP download, re-download any time
-- Payment: crypto only — ETH, USDT (ERC20 / BEP20 / Solana), USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX
+- Payment: crypto only 鈥?ETH, USDT (ERC20 / BEP20 / Solana), USDC, DAI, UNI, SHIB, BNB, Polygon, SOL, TRX
 - Support: a19200332@gmail.com
 
 ## Collections and prices
 
-- [Complete Portrait Bundle](https://lumenportraits.sell.app) — all 52 images, $19.99
-- Neon Nights — 8 cinematic night-street portraits, $9.99
-- Studio Minimal — 12 clean studio portraits, $12.99
-- Film Diary — 12 analog film portraits, $12.99
-- Editorial Icons — 12 haute-couture studio portraits, $8.99
-- Silk & Shadow — 4 silk portrait studies, $4.99
-- Office Siren — 8 tailored corporate looks, $1.99
-- First Look — 4 portrait sampler, $0.99
+- [Complete Portrait Bundle](https://lumenportraits.sell.app) 鈥?all 52 images, $19.99
+- Neon Nights 鈥?8 cinematic night-street portraits, $9.99
+- Studio Minimal 鈥?12 clean studio portraits, $12.99
+- Film Diary 鈥?12 analog film portraits, $12.99
+- Editorial Icons 鈥?12 haute-couture studio portraits, $8.99
+- Silk & Shadow 鈥?4 silk portrait studies, $4.99
+- Office Siren 鈥?8 tailored corporate looks, $1.99
+- First Look 鈥?4 portrait sampler, $0.99
 
 ## Licensing
 
@@ -30,9 +30,9 @@ Personal and commercial use in up to 3 commercial projects per purchase. Modific
 
 ## Frequently asked
 
-**Are the subjects real?** No — every image is AI-generated and retouched.
+**Are the subjects real?** No 鈥?every image is AI-generated and retouched.
 **Is a model release required?** No, because no real person is depicted.
-**What format?** JPEG, 1728 × 2304 px, sRGB.
+**What format?** JPEG, 1728 脳 2304 px, sRGB.
 **How is it delivered?** Instant ZIP download after payment.
 **Which payments?** Cryptocurrency only.
 
@@ -40,6 +40,8 @@ Personal and commercial use in up to 3 commercial projects per purchase. Modific
 
 - [Store](https://lumenportraits.sell.app)
 - [Detailed reference page](https://a19200332.github.io/lumen-portraits-geo/)
+- [ArtStation portfolio](https://www.artstation.com/artwork/JwEZKR)
+- [Free sample on itch.io](https://a19200332.itch.io/free-ai-portrait-pack)
 - [Licensing and AI disclosure](https://a19200332.github.io/lumen-portraits-geo/)
 
 ## Optional
